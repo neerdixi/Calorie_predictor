@@ -4,3 +4,4 @@ scikit-learn
 mlflow
 ipykernel
 seaborn
+xgboost
